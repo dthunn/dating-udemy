@@ -1,0 +1,13 @@
+{
+  "editor.defaultFormatter": "ms-dotnettools.csharp",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4,
+  "omnisharp.autoStart": true,
+  "editor.detectIndentation": false,
+  "editor.insertSpaces": false,
+  "files.exclude": {
+    "**/bin": true,
+    "**/obj": true
+},
+"omnisharp.useGlobalMono": "always"
+}
